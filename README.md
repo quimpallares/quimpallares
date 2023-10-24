@@ -1,4 +1,11 @@
-### Hi there 👋
+# ¡Bienvenido/a a mi perfil de GitHub, soy Quim Pallarés!👋
+
+## Sobre mí
+Soy un estudiante de *DAW* en la escuela *La Salle Gràcia* con experiencia en Java, SQL, HTML, CSS, JavaScript y otros. :man_technologist:
+Tengo experiecia con las IDEs IntelliJ y Visual Studio Code y con Hostings como phpMyAdmin.
+
+## Mis Proyectos
+- MiPractica: <a href="https://github.com/quimpallares/MiPractica">https://github.com/quimpallares/MiPractica</a>
 
 <!--
 **quimpallares/quimpallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
