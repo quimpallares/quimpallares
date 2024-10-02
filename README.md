@@ -1,8 +1,9 @@
-# ¡Bienvenido/a a mi perfil de GitHub, soy Quim Pallarés!👋
+# ¡Bienvenido/a a mi perfil de GitHub, soy Quim Pallarés!👋😄
 
 ## Sobre mí
-Soy un estudiante de *DAW* en la escuela *La Salle Gràcia* con experiencia en Java, SQL, HTML, CSS, JavaScript y otros. :man_technologist:
-Tengo experiecia con las IDEs IntelliJ y Visual Studio Code y con Hostings como phpMyAdmin.
+Soy un estudiante de *DAW* en la escuela *La Salle Gràcia* con experiencia en *Java, JavaFX, SQL, HTML, CSS, JavaScript, Bash, PHP*. :man_technologist:
+Tengo experiecia con las IDEs *IntelliJ* y *Visual Studio Code* y con Hostings como *phpMyAdmin*.
+Y para la seguridad y los testeos se usar el virtualizador *VirtualBox*. 
 
 ## Mis Proyectos
 - MiPractica: <a href="https://github.com/quimpallares/MiPractica">https://github.com/quimpallares/MiPractica</a>
